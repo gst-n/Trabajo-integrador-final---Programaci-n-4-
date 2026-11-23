@@ -4,7 +4,7 @@ Trabajo Práctico Integrador · Programación IV
 
 Aplicación web completa para un negocio de comidas. Los clientes se registran, recorren el catálogo, arman un carrito y confirman un pedido con dirección de entrega y forma de pago. El negocio administra categorías, productos, stock, pedidos y usuarios desde un panel de administración.
 
-- **Repositorio:** `https://github.com/` ←  
+- **Repositorio:** ` https://github.com/gst-n/Trabajo-integrador-final---Programaci-n-4-.git`
 ## Estructura
 
 ```
